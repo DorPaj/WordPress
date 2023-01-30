@@ -1,2 +1,2 @@
-# Dorian Pająk
+# WordPress
 WordPress
